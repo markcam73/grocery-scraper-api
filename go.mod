@@ -1,4 +1,4 @@
-module go-gin-api
+module grocery-scraper-api
 
 go 1.21
 

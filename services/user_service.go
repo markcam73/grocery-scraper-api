@@ -1,7 +1,7 @@
 package services
 
 import (
-	"go-gin-api/models"
+	"grocery-scraper-api/models"
 )
 
 type UserService struct {

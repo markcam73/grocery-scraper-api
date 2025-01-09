@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"go-gin-api/controllers"
+	"grocery-scraper-api/controllers"
 
 	"github.com/gin-gonic/gin"
 )

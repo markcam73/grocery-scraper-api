@@ -1,8 +1,8 @@
 package main
 
 import (
-	"go-gin-api/config"
-	"go-gin-api/routes"
+	"grocery-scraper-api/config"
+	"grocery-scraper-api/routes"
 	"log"
 
 	"github.com/gin-gonic/gin"

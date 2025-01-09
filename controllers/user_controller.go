@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"go-gin-api/models"
-	"go-gin-api/services"
+	"grocery-scraper-api/models"
+	"grocery-scraper-api/services"
 	"net/http"
 
 	"github.com/gin-gonic/gin"
