@@ -2,7 +2,10 @@ module grocery-scraper-api
 
 go 1.24.4
 
-require github.com/gin-gonic/gin v1.10.1
+require (
+	github.com/gin-gonic/gin v1.10.1
+	github.com/go-ozzo/ozzo-validation/v4 v4.3.0
+)
 
 require (
 	github.com/bytedance/sonic v1.13.3 // indirect
