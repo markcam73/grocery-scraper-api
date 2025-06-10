@@ -52,3 +52,6 @@ Thumbs.db
 # Application specific
 config/local.json
 config/development.json
+
+.claude
+CLAUDE.md
